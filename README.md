@@ -10,10 +10,11 @@
   - ZIP с BTX → ZIP с PNG
 
 ## Установка
-1. Убедитесь, что у вас установлен Python 3.10+
-2. Установите зависимости:
-   ```bash
-   pip install -r requirements.txt
+1. Установите зависимости:
+```bash
+pip install -r requirements.txt
+# ИЛИ
+python setup.py install
 
 ## Создатели
 
