@@ -18,6 +18,5 @@ python setup.py install
 
 
 ## Создатели
-
 - @igrok_ya
 - @NECODER
