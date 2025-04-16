@@ -16,9 +16,4 @@ pip install -r requirements.txt
 # ИЛИ
 python setup.py install
 
-## Установка
-1. Установите зависимости:
-```bash
-pip install -r requirements.txt
-# ИЛИ
-python setup.py install
+ 
