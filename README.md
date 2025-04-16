@@ -16,7 +16,6 @@ pip install -r requirements.txt
 # ИЛИ
 python setup.py install
 
-
 ## Создатели
-- @igrok_ya (tg)
-- @NECODER (tg)
+1. @igrok_ya (tg)
+2. @NECODER (tg)
