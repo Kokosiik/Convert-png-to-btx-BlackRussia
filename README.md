@@ -16,6 +16,7 @@ pip install -r requirements.txt
 # ИЛИ
 python setup.py install
 
+
 ## Создатели
 
 - @igrok_ya
