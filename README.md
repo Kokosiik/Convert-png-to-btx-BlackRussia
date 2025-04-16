@@ -18,5 +18,5 @@ python setup.py install
 
 
 ## Создатели
-- @igrok_ya
-- @NECODER
+- @igrok_ya (tg)
+- @NECODER (tg)
