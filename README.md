@@ -16,4 +16,5 @@ pip install -r requirements.txt
 # ИЛИ
 python setup.py install
 ```
-2. Запустите main.py
+2. Замените TOKEN бота на ваш
+3. Запустите main.py
