@@ -14,4 +14,5 @@
 ```bash
 pip install -r requirements.txt
 # ИЛИ
-python setup.py install
+python setup.py install```
+2. Запустите main.py
