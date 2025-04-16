@@ -16,6 +16,9 @@ pip install -r requirements.txt
 # ИЛИ
 python setup.py install
 
-## Создатели
-1. @igrok_ya (tg)
-2. @NECODER (tg)
+## Установка
+1. Установите зависимости:
+```bash
+pip install -r requirements.txt
+# ИЛИ
+python setup.py install
