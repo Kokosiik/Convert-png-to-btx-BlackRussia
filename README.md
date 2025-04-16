@@ -1,1 +1,21 @@
-# Convert-png-to-btx-BlackRussia
+# PNG to BTX Converter for BlackRussia
+
+Конвертер изображений между форматами PNG и BTX (специальный формат для игры BlackRussia).
+
+## Возможности
+- Конвертация PNG → BTX
+- Конвертация BTX → PNG
+- Пакетная обработка ZIP-архивов:
+  - ZIP с PNG → ZIP с BTX
+  - ZIP с BTX → ZIP с PNG
+
+## Установка
+1. Убедитесь, что у вас установлен Python 3.10+
+2. Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+
+## Создатели
+
+- @igrok_ya
+- @NECODER
