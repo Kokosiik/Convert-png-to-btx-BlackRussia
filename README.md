@@ -15,7 +15,7 @@
 pip install -r requirements.txt
 # ИЛИ
 python setup.py install
-
+```bash
 2. Замените TOKEN бота на ваш в main.py
 3. Запустите main.py что бы в директории был PVRTexToolCLI.exe
 
